@@ -1,5 +1,5 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### Hi there 👋 I am Vijaya Bhaskar
+
 
 - 🔭 I’m currently working on ...React
 - 🌱 I’m currently learning ...React

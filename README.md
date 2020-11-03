@@ -1,4 +1,4 @@
-## Hi there 👋 I am Vijaya Bhaskar
+## Hi there 👋 I'm Vijay
 
 
 - 🔭 I’m currently working on a Onedrive clone using ReactJS and Firebase.

@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vijay
 
 
-- 🔭 I’m currently working on a Onedrive clone using ReactJS and Firebase.
+- 🔭 I’m currently working on a One Drive clone using ReactJS and Firebase.
 - 🌱 I’m currently learning Advanced React
 - 👯 I’m looking to collaborate on Front End Dev mainly ReactJS
 - 🤔 I’m looking for help with React Routing
